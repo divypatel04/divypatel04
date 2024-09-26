@@ -72,7 +72,6 @@ I support Max in F1.
 </p>
 
 
-<hr>
 </br>
 
 ---
