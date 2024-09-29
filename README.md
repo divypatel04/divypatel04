@@ -3,17 +3,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/divy_patel04" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/divypatel04/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mr_divypatel/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svghttps://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-Hi, I'm [Divy Patel](https://www.divypatel.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Valorant ⚽.
-I support Max in F1.
+Hi, I'm [Divy Patel](https://www.divypatel.com/), a web and app developer 👨🏻‍💻 from India. I'm a developer who loves to create and deploy new things, with a passion for building amazing products. I'm proud to say that I can successfully center an element with CSS (and if you've tried, you know why that's worth bragging about!).
+
+Besides coding, I enjoy customizing Linux (especially Ubuntu) setups and UI to make things truly my own. In my downtime, I love playing Valorant 🎮, watching Formula 1 (go Max Verstappen! 🏎️), and playing chess ♘.
 
 <br>
 
@@ -24,7 +25,7 @@ I support Max in F1.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [divypatel0406@gmail.com](mailto:divypatel0406@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ - 🔗 My website: [https://www.divypatel.com/](https://www.divypatel.com/)
  
  <br>
 
@@ -54,19 +55,19 @@ I support Max in F1.
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
+  <a href="https://www.codechef.com/users/divypatel04">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/abhishekmaira1999/">
+  <a href="https://leetcode.com/u/divypatel04/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/abhishekmaira191">
+  <a href="https://www.hackerrank.com/divypatel04">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
+  <a href="https://www.codewars.com/users/divypatel04">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
