@@ -72,9 +72,6 @@ Besides coding, I enjoy customizing Linux (especially Ubuntu) setups and UI to m
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-
-</br>
-
 ---
 ### 📊 Github Stats
 
