@@ -25,7 +25,7 @@ Besides coding, I enjoy customizing Linux (especially Ubuntu) setups and UI to m
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [divypatel0406@gmail.com](mailto:divypatel0406@gmail.com);
- - 🔗 My website: [https://www.divypatel.com/](https://www.divypatel.com/)
+ - 🔗 My website: [https://divypatel-xi.vercel.app/](https://divypatel-xi.vercel.app/)
  
  <br>
 
